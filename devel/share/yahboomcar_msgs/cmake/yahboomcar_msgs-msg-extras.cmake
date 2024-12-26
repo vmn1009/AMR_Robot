@@ -1,0 +1,2 @@
+set(yahboomcar_msgs_MESSAGE_FILES "/home/eric/catkin_ws/src/yb-car-vm/yahboomcar_msgs/msg/Position.msg;/home/eric/catkin_ws/src/yb-car-vm/yahboomcar_msgs/msg/PointArray.msg;/home/eric/catkin_ws/src/yb-car-vm/yahboomcar_msgs/msg/Image_Msg.msg;/home/eric/catkin_ws/src/yb-car-vm/yahboomcar_msgs/msg/Target.msg;/home/eric/catkin_ws/src/yb-car-vm/yahboomcar_msgs/msg/TargetArray.msg")
+set(yahboomcar_msgs_SERVICE_FILES "")

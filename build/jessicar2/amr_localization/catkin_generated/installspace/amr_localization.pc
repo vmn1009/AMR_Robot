@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/install
+
+Name: amr_localization
+Description: Description of amr_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

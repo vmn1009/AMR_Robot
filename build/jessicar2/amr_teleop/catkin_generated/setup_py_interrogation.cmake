@@ -1,0 +1,7 @@
+set(amr_teleop_SETUP_PY_SETUP_MODULE "distutils.core")
+set(amr_teleop_SETUP_PY_VERSION "0.0.1")
+set(amr_teleop_SETUP_PY_SCRIPTS "")
+set(amr_teleop_SETUP_PY_PACKAGES "amr_teleop")
+set(amr_teleop_SETUP_PY_PACKAGE_DIRS "src/amr_teleop")
+set(amr_teleop_SETUP_PY_MODULES "")
+set(amr_teleop_SETUP_PY_MODULE_DIRS "")
